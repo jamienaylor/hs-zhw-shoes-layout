@@ -23,5 +23,29 @@
 }
 
 /* Positioning Classes */
+.shadow#summer_grass {
+  float: left;
+  width: 66%;
+  height: 590px;
+  margin-right: 0;
+  margin-left: 0;
+}
 
+.shadow#shoe_archive {
+  float: right;
+  width: 32%;
+  height: 590px;
+  margin-bottom: 20px;
+  margin-left: 0;
+}
 
+#wrapper1_column {
+  column-count: 3;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper#contact_columns {
+  column-count: 3;
+}
